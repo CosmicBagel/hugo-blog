@@ -4,7 +4,7 @@
 baseurl = "https://cosmicbagel.com/"
 
 # Site title
-title = ""
+title = "CosmicBagel"
 
 noTimes = "false"
 
@@ -45,7 +45,7 @@ paginatePath = "page"
     # you can use markdown here
     brand = "CosmicBagel"
     topline = "Top zest"
-    footline = "this is a footline <i class='fa fa-heart'></i>"
+    footline = ""
 
     #Sidebar position
     #false, true, "left", "right"
