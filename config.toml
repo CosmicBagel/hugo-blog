@@ -1,0 +1,76 @@
+#see more variables at https://gohugo.io/overview/configuration/#configuration-variables
+
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "https://cosmicbagel.com/"
+
+# Site title
+title = ""
+
+noTimes = "false"
+
+# Copyright
+copyright = "(c) 2017 CosmicBagel"
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hyde-y"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+#disqusShortname = "your_disqus_shortname"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+#    topic = "topics"
+
+[author]
+    name="Samuel Whiteley"
+    email="sam@cosmicbagel.com"
+
+#these params are for the theme
+[params]
+    # you can use markdown here
+    brand = "CosmicBagel"
+    topline = "Top zest"
+    footline = "this is a footline <i class='fa fa-heart'></i>"
+
+    #Sidebar position
+    #false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Sidebar social links.
+    github = "CosmicBagel" # Your Github profile ID
+    bitbucket = "CosmicBagel" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "snwhiteley" # Your Twitter profile ID
+    youtube = "UCFpCaRpx0R2AtGpQYj9YmsQ"  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+    flickr = "" # Your Flickr profile ID
+    vimeo = "" # Your Vimeo profile ID
+
+    # Sidebar RSS link: will only show up if there is a RSS feed
+    # associated with the current page
+    rss = true
