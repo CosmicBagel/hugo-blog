@@ -33,8 +33,8 @@ paginatePath = "page"
     code = "/:slug/"
 
 [taxonomies]
-    tag = "tags"
-#    topic = "topics"
+    #tag = "tags"
+    topic = "topics"
 
 [author]
     name="Samuel Whiteley"

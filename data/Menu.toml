@@ -8,6 +8,6 @@
     URL = "/post"
 
 [tags]
-    Name = "tags"
-    Title = "Show list of tags"
-    URL = "/tags"
+    Name = "topics"
+    Title = "Show list of topics"
+    URL = "/topics"
