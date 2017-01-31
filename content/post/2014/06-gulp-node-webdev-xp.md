@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2014-11-14T13:51:00-07:00
 description: "Man, I am lovin’ gulp. It was a shaky relationship at first, but I think we’ve come a long way.
 

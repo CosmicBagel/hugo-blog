@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2013-11-06T22:54:00-07:00
 description: "So I've recently come across this goldmine of coding wisdom [[Clean Coders](https://cleancoders.com/)]. I've purchased, watched, and have taken some simple notes on the first episode. I really must say this is fantastic content"
 title: "A bit of clean code"

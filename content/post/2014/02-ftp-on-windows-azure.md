@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2014-04-26T04:48:00-07:00
 description: "So I've finally gotten around to getting the FTP up and running for my website."
 title: "FTP on Windows Azure"

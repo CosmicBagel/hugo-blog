@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2013-10-14T23:36:00-07:00
 description: "It's October 14th, I've been attempting to fight off a cold all weekend, and opengl isn't getting any simpler. So lets do something completely different, like revamp my blog with the latest blogware: Ghost."
 title: "Ghostly fun all up in this"

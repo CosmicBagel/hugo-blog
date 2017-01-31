@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2014-06-14T19:40:00-07:00
 description: "Sometimes I don't know how to answer people when they ask how well I know how to use a language. For example I'm a pretty fluent C# programmer, but I'm only a beginner C++ programmer. That leaves a lot of ambiguity and wiggle room. Another way of saying is that, I can write C# code, and I can fake my way through C++ coding."
 title: "Programming Language Fluency Rankings"

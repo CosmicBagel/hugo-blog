@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2014-07-04T11:16:00-07:00
 description: "I'm not an HR admin, a recruiter, or in any position to hire anybody unless they want to work for half a pack of Jolly Ranchers. What I am is a junior programmer who's worked at a couple of companies, and read a metric ton of developer / tech blogs (Hacker News ftw). With this limited knowledge in mind I'd like to present my hypothetical hiring process."
 title: "Brainstorming: How to hire a dude"

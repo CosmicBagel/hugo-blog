@@ -1,4 +1,5 @@
 ---
+author: "Sam n. w."
 date: 2014-04-22T14:07:00-07:00
 description: "I've recently become interested in Node.js, but I'm bored of writting stuff in JS. Additionally I'd like  some more features to my workflow (like maybe some o [dat intelisense](http://i.imgur.com/vDNnoBa.jpg))"
 title: "The other JavaScripts"
