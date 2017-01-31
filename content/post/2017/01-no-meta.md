@@ -3,7 +3,7 @@ title: "This isn't really content"
 date: 2017-01-30T15:10:00-07:00
 description: "Don't look"
 topics:
-- non-content-monday
+- non-content monday
 - very nice meatballs
 ---
 
