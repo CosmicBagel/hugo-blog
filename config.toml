@@ -75,3 +75,6 @@ paginatePath = "page"
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
     rss = true
+
+    #Google analytics
+    googleAnalytics = "UA-12789702-1"
