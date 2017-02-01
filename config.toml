@@ -6,8 +6,6 @@ baseurl = "https://cosmicbagel.com/"
 # Site title
 title = "CosmicBagel"
 
-
-
 noTimes = "false"
 
 # Copyright
@@ -82,3 +80,5 @@ paginatePath = "page"
     googleAnalytics = "UA-12789702-1"
 
     description = "The rarely updated blog of Samuel N. Whiteley"
+
+    isCommentsOn = false
