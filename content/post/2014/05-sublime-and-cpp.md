@@ -3,6 +3,7 @@ author: "Sam n. w."
 date: 2014-09-09T18:29:00-07:00
 description: "Last week started off with some C++ work. Leading me to learning makefiles, GCC, and how to use them with Sublime Text 3. I went with a simpler tool to force a better understanding on how the pieces fit together on myself."
 title: "Sublime Build & Run C++"
+slug: "sublime-build-run-cpp"
 draft: false
 topics:
 - how-to
