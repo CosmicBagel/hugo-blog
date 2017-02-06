@@ -1,7 +1,7 @@
 #see more variables at https://gohugo.io/overview/configuration/#configuration-variables
 
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "https://cosmicbagel.com/"
+baseurl = "https://www.cosmicbagel.com/"
 
 # Site title
 title = "CosmicBagel"
