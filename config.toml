@@ -9,7 +9,7 @@ title = "CosmicBagel"
 noTimes = "false"
 
 # Copyright
-copyright = "(c) 2017 CosmicBagel"
+copyright = "(c) 2018 CosmicBagel"
 
 # Language
 languageCode = "en-EN"
@@ -61,16 +61,16 @@ paginatePath = "page"
 
     # Sidebar social links.
     github = "CosmicBagel" # Your Github profile ID
-    bitbucket = "CosmicBagel" # Your Bitbucket profile ID
-    linkedin = "" # Your LinkedIn profile ID (from public URL)
-    googleplus = "" # Your Google+ profile ID
-    facebook = "" # Your Facebook profile ID
-    twitter = "snwhiteley" # Your Twitter profile ID
-    youtube = "UCWHzC-EDHzkZMxFV4u52eTQ"  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
-    flickr = "" # Your Flickr profile ID
-    vimeo = "" # Your Vimeo profile ID
-    soundcloud = "cosmic-bagel"
+    #bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "snwhiteley" # Your LinkedIn profile ID (from public URL)
+    #googleplus = "" # Your Google+ profile ID
+    #facebook = "" # Your Facebook profile ID
+    #twitter = "" # Your Twitter profile ID
+    #youtube = ""  # Your Youtube channel ID
+    #flattr = ""  # populate with your flattr uid
+    #flickr = "" # Your Flickr profile ID
+    #vimeo = "" # Your Vimeo profile ID
+    #soundcloud = "cosmic-bagel"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
