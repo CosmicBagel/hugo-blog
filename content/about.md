@@ -5,4 +5,4 @@ title: about
 type: page
 ---
 
-o hey, it's that guy
+The rarely updated blog of Samuel N. Whiteley
