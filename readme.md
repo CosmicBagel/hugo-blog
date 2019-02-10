@@ -5,11 +5,10 @@
 - Github repo for my rarely updated blog
 - Auto deploys to netlify static host
 
-
 #### Notes to future me since you'll forget
 - Using hugo 0.53, I guess you can update this if you need to, but eh
   - [Download](https://github.com/gohugoio/hugo/releases/tag/v0.53)
-- Just run `hugo server` while developing
+- Just run `hugo server` while developing, you put hugo into your Tools folder, you already added it to the PATH variable (unless you on new comp, in which case where tf did you get the money for that)
 - Using `--minify` in the netlify just cuz, idk if it makes that big of a difference, but why not
 - Site still requires JS to display the header icon links, should look into removing that requirement
-- You better have studied for that midterm exam, you procrastinating sloth
+- You better have studied for that midterm exam, I swear to god
