@@ -2,10 +2,10 @@
     Name = "about"
     URL = "/about"
 
-[posts]
-    Name = "posts"
-    Title = "Show list of posts"
-    URL = "/post"
+#once I actually have this page done
+#[portfolio]
+#    Name = "portfolio"
+#    URL = "/portfolio"
 
 [tags]
     Name = "topics"
