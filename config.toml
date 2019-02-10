@@ -72,6 +72,9 @@ paginatePath = "page"
     #vimeo = "" # Your Vimeo profile ID
     #soundcloud = "cosmic-bagel"
 
+    #Newsletter / email subscription link
+    newsletter = "https://feedburner.google.com/fb/a/mailverify?uri=Cosmicbagel&amp;loc=en_US"
+
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
     rss = true
