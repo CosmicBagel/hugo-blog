@@ -51,6 +51,9 @@ paginatePath = "page"
     #false, true, "left", "right"
     sidebar = "left"
 
+    #Page navigation
+    isPageNavOn = false
+
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
     home = "home"
