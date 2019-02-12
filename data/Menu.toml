@@ -2,10 +2,9 @@
     Name = "about"
     URL = "/about"
 
-#once I actually have this page done
-#[portfolio]
-#    Name = "portfolio"
-#    URL = "/portfolio"
+[portfolio]
+    Name = "portfolio"
+    URL = "/portfolio"
 
 [tags]
     Name = "topics"
