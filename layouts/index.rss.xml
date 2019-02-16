@@ -17,9 +17,13 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <author>{{.Site.Author.name }}</author>
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      {{ if .Site.Params.rssTruncateEnabled }}
+      <description>{{ .Content | truncate .Site.Params.rssDescriptionLength | html }}...</description>
+      {{ else }}
+      <description>{{ .Content | html }}...</description>
+      {{ end }}
     </item>
     {{ end }}
   </channel>
