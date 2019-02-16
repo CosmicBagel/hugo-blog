@@ -80,8 +80,8 @@ paginatePath = "page"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page
-    rssTruncateEnabled = false
-    rssDescriptionLength = 250
+    rssTruncateEnabled = true
+    rssDescriptionLength = 200
     rss = true
 
     #Google analytics
