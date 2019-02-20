@@ -44,7 +44,7 @@ paginatePath = "page"
 [params]
     # you can use markdown here
     brand = "CosmicBagel"
-    topline = "Top zest"
+    topline = "Samuel Whiteley"
     footline = ""
 
     #Sidebar position
