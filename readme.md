@@ -13,4 +13,6 @@
 - Using `--minify` in the netlify just cuz, idk if it makes that big of a difference, but why not
 - If you're changing the CSS,run `grunt` or `grunt watch` in the `themes/hyde-y` folder, asuming you have all the node prereqs installed
 - Site still requires JS to display the header icon links, should look into removing that requirement
-- You better have studied for that midterm exam, I swear to god
+- Look into using this https://www.netlify.com/products/dev/
+
+
