@@ -8,3 +8,5 @@ type: page
 The rarely updated blog of Samuel N. Whiteley
 
 To request a resume, feel free to email me. However, my LinkedIn profile is current, and will give you most of what you need to know.
+
+This is only visible on dev branch
