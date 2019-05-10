@@ -19,7 +19,7 @@ languageCode = "en-EN"
 metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hyde-y"
+theme = "bagelwave"
 
 # Pagination
 paginate = 10
