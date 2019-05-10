@@ -1,5 +1,7 @@
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.55"
 [context.production.environment]
-  HUGO_VERSION = "0.53"
+  HUGO_VERSION = "0.55"
 [build]
   command = "hugo --minify"
   publish = "public"
