@@ -32,8 +32,6 @@ weight: 100
 
 - This blog
   - Here's the source code for this blog, I'm using Hugo, and a theme I forked, making modifications as I go. I try to keep it clean and simple. Hugo generates a static site. I host it on netlify that auto deploys and runs hugo when I push updates to github. Netlify hosts the static page output, and the result is an efficient, lightweight website. I write everything using markdown, hugo takes care of the rest.
-  - Blog https://github.com/CosmicBagel/hugo-blog
-  - Theme https://github.com/CosmicBagel/hyde-y
 
 - Game Dev Club 2019 Winter Semester Project - Big Leaf (Tentative title)
 	- Work in progress, currently it's a gardening simulator of sorts
