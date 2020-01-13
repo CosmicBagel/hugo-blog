@@ -21,10 +21,6 @@ weight: 100
   - (first time using UE4, was kinda rough)
   - https://cosmicbagel.itch.io/fall
 
-- Ironsword
-  - On going project in collaboration with a friend. Inspired by Runescape, a simple MMO-esk game. 
-  - The only project where I'm working more as a designer than programmer.
-
 - LazyRay - Raytracing / Graphics Study Project
   - Digging into some ray tracing books and learning how ray trace renderers work by writing one. On going project, using SDL2 to present rendered image, everything else is software rendering.
   - No ambition to make this into something suitable for the production or development of content, it's just a learning project.
@@ -34,4 +30,9 @@ weight: 100
   - Here's the source code for this blog, I'm using Hugo, and a theme I forked, making modifications as I go. I try to keep it clean and simple. Hugo generates a static site. I host it on netlify that auto deploys and runs hugo when I push updates to github. Netlify hosts the static page output, and the result is an efficient, lightweight website. I write everything using markdown, hugo takes care of the rest.
 
 - Game Dev Club 2019 Winter Semester Project - Big Leaf (Tentative title)
-	- Work in progress, currently it's a gardening simulator of sorts
+	- It's a gardening simulator of sorts. You play as a mouse character (represented by the durable UE4 manakin), and grow plants. I worked on this project in UE4 using blueprints, and developed a couple of systems, including a plant "growing" system. The system factored in shade and sunlight as it occured within the day/night cycle. Since the world was baked, and not dynamic, we were able to place pre-determined shade zones that subtracted away from the natural sun light. The sun light would vary according to the day/night cycle. There was also a hydration sub-system that took into account watering from a water can and nearby water features that were manually placed. Plants would grow/wither/die based on the amount of sun and water given. Too much or too little resulted in dead plants over time. 
+    - The project is very large, so you'll have to contact me if you would like a zip file of it
+
+- DecemberBliss - A personal learning project to become more familiar with c/c++
+    - This was a project I worked on during the christmas break, and still poke at a bit. The goal was to learn more about practical cross-platform c/c++ development by creating a simple 2d game with a handful of features I considered to be critical to development. More information is included in the project's readme on github.
+    - https://github.com/CosmicBagel/DecemberBliss
