@@ -28,6 +28,7 @@ weight: 100
 
 - This blog
   - Here's the source code for this blog, I'm using Hugo, and a theme I forked, making modifications as I go. I try to keep it clean and simple. Hugo generates a static site. I host it on netlify that auto deploys and runs hugo when I push updates to github. Netlify hosts the static page output, and the result is an efficient, lightweight website. I write everything using markdown, hugo takes care of the rest.
+  - https://github.com/CosmicBagel/hugo-blog
 
 - Game Dev Club 2019 Winter Semester Project - Big Leaf (Tentative title)
 	- It's a gardening simulator of sorts. You play as a mouse character (represented by the durable UE4 manakin), and grow plants. I worked on this project in UE4 using blueprints, and developed a couple of systems, including a plant "growing" system. The system factored in shade and sunlight as it occured within the day/night cycle. Since the world was baked, and not dynamic, we were able to place pre-determined shade zones that subtracted away from the natural sun light. The sun light would vary according to the day/night cycle. There was also a hydration sub-system that took into account watering from a water can and nearby water features that were manually placed. Plants would grow/wither/die based on the amount of sun and water given. Too much or too little resulted in dead plants over time. 
