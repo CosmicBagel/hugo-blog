@@ -1,13 +1,12 @@
 <section id="main-content" class="container main_content homepage">
-  <header class="container header">
-  {{/*
-    {{ partial "bloc/content/h1-title" . }}
-    {{ partial "bloc/content/lastupdate" . }}
-    */}}
-  </header>
-  {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-  {{ range $paginator.Pages }}
-    {{ .Render "summary" }}
+  {{ range where .Data.Pages "Type" "homepage" }}
+  <article>
+    <!-- Title, as defined in the front-matter  of /content/portfolio.md -->
+    <h1 class="pagetitle">{{ .Title }}</h1>
+    <div class="content">
+      <!-- Content. is the actual content of '/content/portfolio.md' -->
+      {{ .Content }}
+    </div>
+  </article>
   {{ end }}
-  {{ partial "bloc/content/pagination" . }}
 </section>

@@ -1,8 +1,8 @@
 ---
-date: 2019-02-12T13:39:55-07:00
+date:
 draft: false
 title: Portfolio
-type: page
+type: "homepage"
 weight: 100
 ---
 

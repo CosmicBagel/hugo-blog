@@ -9,7 +9,7 @@ title = "CosmicBagel"
 noTimes = "false"
 
 # Copyright
-copyright = "(c) 2019 CosmicBagel"
+copyright = "(c) 2021 CosmicBagel"
 
 # Language
 languageCode = "en-EN"
@@ -56,7 +56,7 @@ paginatePath = "page"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "home"
+    home = "portfolio"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
@@ -76,7 +76,7 @@ paginatePath = "page"
     #soundcloud = "cosmic-bagel"
 
     #Newsletter / email subscription link
-    newsletter = "http://eepurl.com/ghpyyT"
+    #newsletter = "http://eepurl.com/ghpyyT"
 
     # Sidebar RSS link: will only show up if there is a RSS feed
     # associated with the current page

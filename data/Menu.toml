@@ -1,12 +1,8 @@
+[blog]
+    Name = "blog"
+    URL = "/post"
+
 [about]
     Name = "about"
     URL = "/about"
 
-[portfolio]
-    Name = "portfolio"
-    URL = "/portfolio"
-
-[tags]
-    Name = "topics"
-    Title = "Show list of topics"
-    URL = "/topics"
